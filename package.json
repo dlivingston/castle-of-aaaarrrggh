@@ -2,6 +2,7 @@
   "name": "castle-of-aaaarrrggh",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://sandbox.donaldlivingston.com/castle-of-aaaarrrggh/",
   "dependencies": {
     "@mdi/font": "^2.5.94",
     "bulma": "^0.7.1",
